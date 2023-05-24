@@ -244,6 +244,12 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.intelNina{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
